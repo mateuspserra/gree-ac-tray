@@ -1,0 +1,19 @@
+# Ambientes e arquivos temporários do Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Arquivos gerados pelo empacotamento
+build/
+dist/
+*.spec
+
+# Configurações locais e registros
+.env
+.env.*
+*.log
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
